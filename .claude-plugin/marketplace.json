@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "instagram-agent-skill-fa",
+  "description": "Persian (Farsi) Instagram agent skill pack for Claude",
+  "owner": {
+    "name": "Ehsan",
+    "url": "https://github.com/ehsan6793"
+  },
+  "plugins": [
+    {
+      "name": "instagram-agent-fa",
+      "description": "Thirteen Persian Claude skills that run an Instagram account, with a scored hook panel, a caption linter, and a ZWNJ-safe Persian humanizer.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/ehsan6793/instagram-agent-skill-fa"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "instagram-agent-fa",
+  "description": "سیزده اسکیل Claude برای مدیریت پیجِ اینستاگرامِ فارسی: ریل با ۲۹ فرمولِ هوک و امتیازدهِ هوک، کپشن‌لینتر، پروفایل، برنامه‌ی هفته، کامنت، دایرکت، و humanizer که لحنِ ماشینی رو از متنِ فارسی می‌گیره (بدون خراب‌کردنِ نیم‌فاصله). Thirteen Claude skills for a Persian Instagram account, adapted from Jake Schincariol's instagram-agent-skill.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ehsan",
+    "url": "https://github.com/ehsan6793"
+  },
+  "homepage": "https://github.com/ehsan6793/instagram-agent-skill-fa",
+  "repository": "https://github.com/ehsan6793/instagram-agent-skill-fa",
+  "license": "MIT",
+  "keywords": ["instagram", "persian", "farsi", "reels", "content", "humanizer", "rtl", "marketing"]
+}
